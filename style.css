@@ -1,0 +1,18 @@
+h4,
+p,
+h5 {
+    color: #f5f6f7;
+    
+}
+
+.GetWeather {
+    width: 100%;
+    height: 50%;
+   
+}
+.mySpinner{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
